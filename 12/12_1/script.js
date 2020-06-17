@@ -1,0 +1,21 @@
+let m = 2.4523;
+console.log(m);
+console.log('Math.trunc(m)');
+console.log(Math.trunc(m));
+console.log('Math.sign(m)');
+console.log(Math.sign(m));
+m=-25;
+console.log('Math.sign(m)');
+console.log(Math.sign(m));
+m=0;
+console.log('Math.sign(m)');
+console.log(Math.sign(m));
+m='asd';
+console.log('Math.sign(m)');
+console.log(Math.sign(m));
+m=8;
+console.log('Math.log2(m)');
+console.log(Math.log2(m));
+console.log('Math.log10(m)');
+console.log(Math.log10(m));
+
